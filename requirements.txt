@@ -1,0 +1,7 @@
+## 📦 Requirements
+
+- Python 3.9+
+- Streamlit
+- PyPDF2
+- python-dotenv
+- google-generativeai
